@@ -1,0 +1,127 @@
+{
+    "dependencies": "advancedrocketry",
+        "populate": {
+            "dimensional_shard": {
+                "distribution": "uniform",
+                "generator": {
+                    "block": { 					 					
+                        "name": "rftools:dimensional_shard_ore", 					 					
+                        "metadata": 0				 				
+                    },
+                    "material": "minecraft:stone",
+                    "cluster-size": 5
+                },
+                "cluster-count": 9,
+                "min-height": 17,
+                "max-height": 32,
+                "retrogen": "false",
+                "biome": "all",
+                "dimension": {
+                    "restriction": "whitelist",
+                    "value": [
+                        109,
+                        110,
+                        120
+                    ]
+                }
+            },
+            "prosperity": {
+                "distribution": "uniform",
+                "generator": {
+                    "block": { 					 					
+                        "name": "mysticalagriculture:prosperity_ore", 					 					
+                        "metadata": 0				 				
+                    },
+                    "material": "minecraft:stone",
+                    "cluster-size": 12
+                },
+                "cluster-count": 7,
+                "min-height": 15,
+                "max-height": 60,
+                "retrogen": "false",
+                "biome": "all",
+                "dimension": {
+                    "restriction": "whitelist",
+                    "value": [
+                        109,
+                        110,
+                        120
+                    ]
+                }
+            },
+            "inferium": {
+                "distribution": "uniform",
+                "generator": {
+                    "block": { 					 					
+                        "name": "mysticalagriculture:inferium_ore", 					 					
+                        "metadata": 0				 				
+                    },
+                    "material": "minecraft:stone",
+                    "cluster-size": 12
+                },
+                "cluster-count": 7,
+                "min-height": 15,
+                "max-height": 60,
+                "retrogen": "false",
+                "biome": "all",
+                "dimension": {
+                    "restriction": "whitelist",
+                    "value": [
+                        109,
+                        110,
+                        120
+                    ]
+                }
+            },
+            "draconium_nether": {
+                "distribution": "uniform",
+                "generator": {
+                    "block": { 					 					
+                        "name": "draconicevolution:draconium_ore", 					 					
+                        "metadata": 1 				 				
+                    },
+                    "material": "minecraft:stone",
+                    "cluster-size": 13
+                },
+                "cluster-count": 7,
+                "min-height": 1,
+                "max-height": 16,
+                "retrogen": "false",
+                "biome": "all",
+                "dimension": {
+                    "restriction": "whitelist",
+                    "value": [
+                        101,
+                        102,
+                        113,
+                        118,
+                        122
+                    ]
+                }
+            },
+            "draconium_end": {
+                "distribution": "uniform",
+                "generator": {
+                    "block": { 					 					
+                        "name": "draconicevolution:draconium_ore", 					 					
+                        "metadata": 2 				 				
+                    },
+                    "material": "minecraft:stone",
+                    "cluster-size": 24
+                },
+                "cluster-count": 7,
+                "min-height": 1,
+                "max-height": 16,
+                "retrogen": "false",
+                "biome": "all",
+                "dimension": {
+                    "restriction": "whitelist",
+                    "value": [
+                        103,
+                        115,
+                        119
+                    ]
+                }
+            }
+        }
+    }
