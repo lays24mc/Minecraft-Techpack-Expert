@@ -36,9 +36,9 @@ recipes.remove(<minecraft:bucket>);
 
 recipes.remove(<minecraft:hopper>);
 	recipes.addShaped("Hopper", <minecraft:hopper>, [
-		[<ore:plateIron>, null, <ore:plateIron>],
+		[<ore:plateIron>, null,              <ore:plateIron>],
 		[<ore:plateIron>, <minecraft:chest>, <ore:plateIron>], 
-		[null, <ore:plateIron>, null]]);
+		[null,            <ore:plateIron>,   null]]);
 
 //====== Furnace ======
 
