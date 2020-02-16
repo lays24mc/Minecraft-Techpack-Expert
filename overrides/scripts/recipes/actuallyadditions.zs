@@ -52,3 +52,12 @@ recipes.remove(<actuallyadditions:item_misc:8>);
         [null,               <ore:wireElectrum>,              null],
 	    [<ore:wireElectrum>, <actuallyadditions:item_misc:7>, <ore:wireElectrum>], 
 	    [null,               <ore:wireElectrum>,              null]]);
+
+//====== Atomic Reconstructor ======
+
+recipes.remove(<actuallyadditions:block_atomic_reconstructor>);
+	recipes.addShaped("Atomic Reconstructor", <actuallyadditions:block_atomic_reconstructor>, [
+		[<ore:plateIron>,    null,                             <ore:plateIron>],
+		[<ore:dustRedstone>, <actuallyadditions:block_misc:9>, <ore:dustRedstone>], 
+		[<ore:plateIron>,    <ore:dustRedstone>,               <ore:plateIron>]
+		]);
