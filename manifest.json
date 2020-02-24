@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Minecraft Techpack Expert",
-  "version": "0.0.2 - alpha",
+  "version": "0.0.3 - alpha",
   "author": "lays24mc",
   "files": [
     {
@@ -41,7 +41,7 @@
     },
     {
       "projectID": 246760,
-      "fileID": 2752301,
+      "fileID": 2885221,
       "required": true
     },
     {
@@ -71,7 +71,7 @@
     },
     {
       "projectID": 237307,
-      "fileID": 2697672,
+      "fileID": 2883493,
       "required": true
     },
     {
@@ -112,11 +112,6 @@
     {
       "projectID": 270183,
       "fileID": 2621277,
-      "required": true
-    },
-    {
-      "projectID": 349840,
-      "fileID": 2848875,
       "required": true
     },
     {
@@ -351,7 +346,7 @@
     },
     {
       "projectID": 298187,
-      "fileID": 2823582,
+      "fileID": 2887403,
       "required": true
     },
     {
@@ -367,11 +362,6 @@
     {
       "projectID": 314904,
       "fileID": 2819669,
-      "required": true
-    },
-    {
-      "projectID": 265894,
-      "fileID": 2835526,
       "required": true
     },
     {
@@ -546,7 +536,7 @@
     },
     {
       "projectID": 239286,
-      "fileID": 2852262,
+      "fileID": 2883487,
       "required": true
     },
     {
@@ -591,7 +581,7 @@
     },
     {
       "projectID": 247111,
-      "fileID": 2823642,
+      "fileID": 2887479,
       "required": true
     },
     {
@@ -676,12 +666,12 @@
     },
     {
       "projectID": 322347,
-      "fileID": 2876377,
+      "fileID": 2883994,
       "required": true
     },
     {
       "projectID": 268326,
-      "fileID": 2793852,
+      "fileID": 2884450,
       "required": true
     },
     {
@@ -721,7 +711,7 @@
     },
     {
       "projectID": 237167,
-      "fileID": 2832410,
+      "fileID": 2886594,
       "required": true
     },
     {
@@ -791,7 +781,7 @@
     },
     {
       "projectID": 251136,
-      "fileID": 2882730,
+      "fileID": 2883312,
       "required": true
     },
     {
@@ -821,7 +811,7 @@
     },
     {
       "projectID": 223852,
-      "fileID": 2777929,
+      "fileID": 2887858,
       "required": true
     },
     {
@@ -856,7 +846,7 @@
     },
     {
       "projectID": 263420,
-      "fileID": 2880820,
+      "fileID": 2884144,
       "required": true
     },
     {

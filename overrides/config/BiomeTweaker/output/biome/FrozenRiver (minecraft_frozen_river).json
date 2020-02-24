@@ -8,23 +8,21 @@
   "Height Variation": 0.0,
   "Top Block": "minecraft:grass[snowy\u003dfalse]",
   "Filler Block": "minecraft:dirt[snowy\u003dfalse,variant\u003ddirt]",
-  "Ocean Top Block": "minecraft:gravel",
-  "Ocean Filler Block": "minecraft:stone[variant\u003dstone]",
-  "Actual Filler Blocks": [
-    "minecraft:stone[variant\u003dstone]"
-  ],
-  "Grass Color": "16050879",
-  "Foliage Color": "6794640",
+  "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
+  "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",
+  "Actual Filler Blocks": "Disabled. Activate in BiomeTweakerCore.",
+  "Grass Color": "Disabled. Activate in BiomeTweakerCore.",
+  "Foliage Color": "Disabled. Activate in BiomeTweakerCore.",
   "Water Color": "16777215",
-  "Temperature": 0.1,
-  "Humidity": 0.4,
+  "Temperature": 0.0,
+  "Humidity": 0.5,
   "Water Tint": 16777215,
   "Enable Rain": true,
   "Enable Snow": true,
   "Dictionary Types": [
-    "WATER",
     "RIVER",
     "COLD",
+    "WATER",
     "SNOWY"
   ],
   "BiomeManager Entries": {},
@@ -102,5 +100,5 @@
     }
   ],
   "Spawn Biome": false,
-  "Tweaked": true
+  "Tweaked": false
 }

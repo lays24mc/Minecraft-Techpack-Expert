@@ -42,7 +42,7 @@
 	{
 		"type": "lakes",
 		"identifier": "lava_lake",
-		"enabled": true,
+		"enabled": false,
 		"targetBlock": "minecraft:lava"
 	},
 	{
