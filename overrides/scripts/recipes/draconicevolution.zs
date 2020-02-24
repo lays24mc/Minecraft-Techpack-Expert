@@ -7,9 +7,6 @@ import mods.jei.JEI.removeAndHide as hd;
 
 print(" =================== Change Draconic Evolution recipes =================== ");
 
-// ====== Charged Draconium ======
-	mods.extendedcrafting.CombinationCrafting.addRecipe(<draconicevolution:draconium_block:1> * 2, 2000000000, 10000000, <draconicevolution:draconium_block>, [<draconicevolution:draconium_block>]);
-
 // ====== Mob Grinder ======
 
 recipes.remove(<draconicevolution:grinder>);
@@ -85,12 +82,4 @@ recipes.remove(<draconicevolution:draconic_core>);
 		[<ore:ingotDraconium>, <ore:ingotDraconium>,              <ore:plateElite>]
 	]);
 
-// ====== Wyvern Core ======
-
-recipes.remove(<draconicevolution:wyvern_core>);
-	recipe.addShapedMirrored("Wyvern Core", <draconicevolution:wyvern_core>, [
-		[<ore:ingotVibrantAlloy>,           <draconicevolution:draconic_core>, <ore:ingotVibrantAlloy>],
-		[<draconicevolution:draconic_core>, <minecraft:nether_star>,           <draconicevolution:draconic_core>], 
-		[<ore:ingotVibrantAlloy>,           <draconicevolution:draconic_core>, <ore:ingotVibrantAlloy>]
-	]);
 

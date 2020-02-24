@@ -25,7 +25,7 @@ recipes.remove(<cyclicmagic:block_user>);
 recipes.remove(<cyclicmagic:clock>);
 	recipes.addShapedMirrored("Redstone Clock", <cyclicmagic:clock>, [
 		[<ore:plateIron>,    <ore:circuitAdvanced>,       <ore:plateIron>],
-		[<ore:circuitBasic>, <extrautils2:redstoneclock>, <ore:circuitBasic>], 
+		[<ore:circuitBasic>, <ore:blockRedstone>,         <ore:circuitBasic>], 
 		[<ore:plateIron>,    <ore:circuitAdvanced>,       <ore:plateIron>]
 	]);
 

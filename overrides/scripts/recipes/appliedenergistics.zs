@@ -67,7 +67,7 @@ recipes.remove(<appliedenergistics2:energy_acceptor>);
 
 recipes.remove(<appliedenergistics2:controller>);
 	recipes.addShaped("ME Controller", <appliedenergistics2:controller>, [
-		[<appliedenergistics2:smooth_sky_stone_block>, <advancedrocketry:ic:3>, <appliedenergistics2:smooth_sky_stone_block>],
+		[<appliedenergistics2:smooth_sky_stone_block>, <ore:oc:ram5>, <appliedenergistics2:smooth_sky_stone_block>],
 		[<ore:oc:ram5>,                                <mekanism:basicblock:8>, <ore:oc:ram5>], 
 		[<appliedenergistics2:smooth_sky_stone_block>, <ore:oc:ram5>,           <appliedenergistics2:smooth_sky_stone_block>]
 	]);
